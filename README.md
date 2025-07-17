@@ -1,6 +1,4 @@
-    # DAA Case Study
-
-    Graph of time of execution of Heapsort, Quicksort and Mergesort
+    Graph of time of execution of Heapsort, Quicksort and Mergesort under different randomised inputs
 
     ## Contents
 
